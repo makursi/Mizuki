@@ -131,13 +131,9 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "This page? Or the next page?", // 主页横幅主标题
+			title: "没事,困难的日子会好起来哒~", // 主页横幅主标题
 
-			subtitle: [
-				"Some endings are not the finale, but a brief farewell. ",
-				"I will continue to read and write as I used to,",
-				" until the day I look back and see a whole new chapter.",
-			],
+			subtitle: ["嘛,有什么事情明天再去做吧"],
 			typewriter: {
 				enable: false, // 启用副标题打字机效果
 
