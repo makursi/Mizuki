@@ -3,7 +3,7 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
 
-## 🌟 Theme Features
+<!-- ## 🌟 Theme Features
 
 ### 🎨 Design & User Experience
 - **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
@@ -46,4 +46,4 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+*Built with ❤️ using Astro and inspired by modern web design principles.* -->
