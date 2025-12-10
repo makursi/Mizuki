@@ -1,0 +1,10 @@
+{
+	"title": "卡拉的相册",
+	"description": "一个关于卡拉的相册",
+	"date": "2025-12-10",
+	"location": "中国",
+	"tags": ["卡拉", "可爱", "屑"],
+	"layout": "masonry",
+	"columns": 3,
+	"hidden": false
+}

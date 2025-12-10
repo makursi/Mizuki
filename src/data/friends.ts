@@ -77,6 +77,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://developer.mozilla.org",
 		tags: ["Docs", "Reference"],
 	},
+	{
+		id: 9,
+		title: "Vue.js",
+		imgurl: "https://vuejs.org/logo.svg",
+		desc: "The Progressive JavaScript Framework for building user interfaces",
+		siteurl: "https://vuejs.org",
+		tags: ["Framework", "JavaScript", "Frontend"],
+	},
 ];
 
 // 获取所有友情链接数据
