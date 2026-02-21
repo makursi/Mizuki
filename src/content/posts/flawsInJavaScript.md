@@ -4,7 +4,7 @@ published: 2026-02-16
 description: 'This article discusses the fatal flaws of the JavaScript language and various related problems that urgently need to be addressed.'
 image: ''
 tags: [technology, javascript]
-category: 'technology'
+category: 'Technology'
 draft: false 
 lang: 'zh'
 ---
