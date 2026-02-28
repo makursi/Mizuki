@@ -192,9 +192,26 @@ reflog记录中，“to <分支名>”（如 moving from master to dev/pilot-001
     git branch dev/feature-abc 1f85427
 
 ![Alt text](./guide/page13.webp)
+
+# 在本地使用git pull 拉取远程仓库后进行回滚
+
+    git reset --hard ORIG_HEAD
+
+当你执行 git pull（或 git merge）时，Git 会自动保存一个特殊引用：ORIG_HEAD，它指向 pull 之前的 HEAD 位置.
+
+执行后:
+1.  分支会完全回到 git pull 之前的状态
+2.  远程拉取的提交、合并提交都会被丢弃
+3.  文件内容恢复原样
+
+*如果使用 git remote add <name> 不小心添加了错误的远程仓库, 使用这个命令取消绑定的远程仓库然后再回滚代码*
+        git remote remove origin
+
 # 最后关于代码回滚的一些建议:
 
 ![Alt text](./guide/page14.webp)
 
 ##  此外，总体来讲，回滚要谨填，不要过于依赖回滚功能，避免使用"git push -f"
+
+
 
