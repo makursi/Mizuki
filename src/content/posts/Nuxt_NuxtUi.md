@@ -3,7 +3,7 @@ title: Nuxt_NuxtUi.md
 published: 2026-01-19
 description: ''
 image: ''
-tags: []
+tags: [Nuxt,Vue,NuxtUi]
 category: ''
 draft: false 
 lang: ''
