@@ -4,7 +4,7 @@ published: 2026-03-04
 description: ''
 image: ''
 tags: []
-category: 'technology'
+category: 'Technology'
 draft: false 
 lang: ''
 ---
